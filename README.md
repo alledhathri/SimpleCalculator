@@ -20,4 +20,4 @@ JavaScript (ES6) → Logic for calculations and event handling
 # 🚀 How to Use
 
 Clone the repository:
-git clone https://github.com/alledhathri/simple-calculator.git
+git clone https://github.com/alledhathri/SimpleCalculator.git
