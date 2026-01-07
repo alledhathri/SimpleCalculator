@@ -6,21 +6,21 @@ Perfect beginner-friendly project to practice front-end development and DOM mani
 
 # Features
 
-1. Perform basic arithmetic operations: ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
+ Perform basic arithmetic operations: ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
+ 
+ Clear and reset functionality
 
-2. Clear and reset functionality
+ Responsive design for desktop and mobile
 
-3. Responsive design for desktop and mobile
-
-4. Simple, clean UI with interactive buttons
+ Simple, clean UI with interactive buttons
 
 # Technologies Used
 
-1. HTML5 - Structure of the calculator
+ HTML5 - Structure of the calculator
 
-2. CSS3 - Styling and layout (responsive design, hover effects)
+ CSS3 - Styling and layout (responsive design, hover effects)
 
-3. JavaScript (ES6) - Logic for calculations and event handling
+ JavaScript (ES6) - Logic for calculations and event handling
 
 # How to Use
 
